@@ -1,0 +1,49 @@
+body {
+  background-color: pink;
+  background-image: url("./EA.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #000000;
+  min-height: 100vh;
+}
+h1 {
+  text-align: center;
+}
+.heading {
+  border: 2px ridge black;
+  text-align: center;
+  font-size: 48px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: lightgray;
+  border-radius: 5px;
+  border-color: lightgray;
+}
+.a {
+  text-align: center;
+  font-size: 24px;
+}
+
+.sec1 {
+  border: 3px ridge black;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: lightgray;
+  font-size: 20px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h2 {
+  text-align: center;
+  color: lightgray;
+  font-size: 32px;
+}
+.sec2 {
+  border: 3px ridge black;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: lightgray;
+  font-size: 20px;
+}
